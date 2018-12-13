@@ -4,7 +4,7 @@
   "version": "1.5.0",
   "description": "JS++ language support - syntax highlighting and more.",
   "keywords": [],
-  "activationCommands": {
+  "activationCommands": { 
     "atom-workspace": "jspp:toggle"
   },
   "repository": {
