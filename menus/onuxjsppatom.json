@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle onuxjsppatom",
+        "command": "onuxjsppatom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "onuxjsppatom",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "onuxjsppatom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
