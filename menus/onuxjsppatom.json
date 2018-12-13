@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle onuxjsppatom",
-        "command": "onuxjsppatom:toggle"
+        "label": "Toggle jspp",
+        "command": "jspp:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "onuxjsppatom",
+          "label": "jspp",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "onuxjsppatom:toggle"
+              "command": "jspp:toggle"
             }
           ]
         }
