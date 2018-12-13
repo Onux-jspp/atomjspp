@@ -1,10 +1,9 @@
 {
   "name": "jspp",
   "main": "./lib/jspp",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "JS++ language support - syntax highlighting and more.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "jspp:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
