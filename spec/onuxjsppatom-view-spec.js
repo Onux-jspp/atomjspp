@@ -1,8 +1,8 @@
 'use babel';
 
-import OnuxjsppatomView from '../lib/onuxjsppatom-view';
+import jsppView from '../lib/jspp-view';
 
-describe('OnuxjsppatomView', () => {
+describe('jsppView', () => {
   it('has one valid test', () => {
     expect('life').toBe('easy');
   });

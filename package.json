@@ -1,14 +1,14 @@
 {
   "name": "jspp",
-  "main": "./lib/onuxjsppatom",
+  "main": "./lib/jspp",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "onuxjsppatom:toggle"
+    "atom-workspace": "jspp:toggle"
   },
-  "repository": "https://github.com/atom/onuxjsppatom",
+  "repository": "https://github.com/atom/jspp",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
