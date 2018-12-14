@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/onux/jspp/tree/master/Editor%20Integration/Atom"
+    "url": "https://github.com/Onux-jspp/atomjspp.git"
   },
   "license": "MIT",
   "engines": {
